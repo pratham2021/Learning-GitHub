@@ -2,14 +2,14 @@
 //  ContentView.swift
 //  LearningGitHub
 //
-//  Created by Pratham  Hebbar on 7/19/21.
+//  Created by Pratham  Hebbar on 7/19/2021.
 //
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
+        Text("Hello, CodeCrew!")
             .padding()
     }
 }
